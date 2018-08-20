@@ -1,7 +1,7 @@
 {
   "name": "autopoke",
   "version": "1.0.0",
-  "description": "Pokes people who don't do their job",
+  "description": "Pokes people aren't doing their job",
   "main": "index.js",
   "bin": "./index.js",
   "scripts": {
