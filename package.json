@@ -1,0 +1,26 @@
+{
+  "name": "autopoke",
+  "version": "1.0.0",
+  "description": "Pokes people who don't do their job",
+  "main": "index.js",
+  "bin": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edisch/autopoke.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edisch/autopoke/issues"
+  },
+  "homepage": "https://github.com/edisch/autopoke#readme",
+  "dependencies": {
+    "@slack/client": "^3.11.0",
+    "dotenv": "^4.0.0",
+    "github-api": "^3.0.0"
+  }
+}
